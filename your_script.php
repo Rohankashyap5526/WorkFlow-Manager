@@ -5,7 +5,7 @@
 const DB_HOST = 'localhost';
 const DB_NAME = 'epms';
 const DB_USER = 'root';
-const DB_PASS = 'Rohan@sql5526';
+const DB_PASS = '********';
 
 function connectDB() {
     try {
