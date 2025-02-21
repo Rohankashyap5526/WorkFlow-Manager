@@ -7,7 +7,6 @@ WorkFlow Manager is a comprehensive web-based application designed to streamline
 Key Features:
 
 Admin Dashboard:
-
 User Management: Admins can view, manage, and assign roles to users, including employees and managers.
 Manager Assignment: Easily assign managers to specific employees to improve team structure and reporting.
 Department Oversight: Access detailed information about various departments and their members.
